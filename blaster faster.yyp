@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"s_ship","path":"sprites/s_ship/s_ship.yy",},"order":1,},
+    {"id":{"name":"o_enemy_ship_two","path":"objects/o_enemy_ship_two/o_enemy_ship_two.yy",},"order":7,},
     {"id":{"name":"s_laser","path":"sprites/s_laser/s_laser.yy",},"order":3,},
     {"id":{"name":"s_enemy_laser","path":"sprites/s_enemy_laser/s_enemy_laser.yy",},"order":5,},
     {"id":{"name":"s_enemy_two","path":"sprites/s_enemy_two/s_enemy_two.yy",},"order":7,},
@@ -131,7 +132,7 @@
     {"CopyToMask":-1,"filePath":"datafiles/s_button_strip2/layers/ce8db9ed-3174-4ac0-8a7a-c62410a31703","resourceVersion":"1.0","name":"9d140504-4f6f-40e9-9701-fa202447426f.png","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2.3.4.577",
   },
   "resourceVersion": "1.4",
   "name": "blaster faster",
