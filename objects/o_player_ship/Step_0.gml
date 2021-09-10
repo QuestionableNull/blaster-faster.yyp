@@ -1,4 +1,4 @@
-///Controls the player
+/// @description Controls the player
 //sets the sprite to look at the mouse
 var _mouse_direction = point_direction(x, y, mouse_x, mouse_y);
 image_angle = _mouse_direction;
@@ -21,7 +21,7 @@ if (_thrust) {
 } else {
 	friction = friction_amount;
 }
-
+//fires the laser when shot
 var _fire_laser = mouse_check_button_pressed(mb_left);
 if (_fire_laser) {
 	fire_lasers();

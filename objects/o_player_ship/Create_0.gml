@@ -1,2 +1,2 @@
-///speed of image
+/// @description speed of image
 image_speed = 0;

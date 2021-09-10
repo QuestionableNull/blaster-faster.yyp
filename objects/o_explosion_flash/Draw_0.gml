@@ -1,4 +1,4 @@
-///blends sprite
+/// @description blends sprite
 //make it look better in the game
 gpu_set_blendmode(bm_add);
 draw_self();
