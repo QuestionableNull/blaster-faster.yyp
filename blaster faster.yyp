@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"s_ship","path":"sprites/s_ship/s_ship.yy",},"order":1,},
+    {"id":{"name":"o_ui","path":"objects/o_ui/o_ui.yy",},"order":9,},
     {"id":{"name":"o_enemy_ship_two","path":"objects/o_enemy_ship_two/o_enemy_ship_two.yy",},"order":7,},
     {"id":{"name":"s_laser","path":"sprites/s_laser/s_laser.yy",},"order":3,},
     {"id":{"name":"s_enemy_laser","path":"sprites/s_enemy_laser/s_enemy_laser.yy",},"order":5,},
