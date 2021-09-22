@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "a_enemy_laser",
-  "duration": 0.0,
+  "duration": 0.155193,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

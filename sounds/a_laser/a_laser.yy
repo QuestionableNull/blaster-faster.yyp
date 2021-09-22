@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "a_laser",
-  "duration": 0.155193,
+  "duration": 0.336054,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
