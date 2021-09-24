@@ -6,7 +6,7 @@
     "path": "folders/Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "fire_lasers",
+  "name": "quit_button",
   "tags": [],
   "resourceType": "GMScript",
 }
