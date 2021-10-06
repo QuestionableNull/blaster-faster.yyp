@@ -1,3 +1,4 @@
+//makes the variables for the camera shake
 var _x = random_range (-intensity, intensity);
 var _y = random_range (-intensity, intensity);
 

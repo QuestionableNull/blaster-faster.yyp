@@ -1,7 +1,7 @@
 /// @description makes explosion when destroyed
 instance_create_layer(x, y, "Effects", o_explosion_flash);
 
-
+//makes the highscore and saves it to the computer
 if (object_index != o_player_ship) {
 	score += max_armor;
 	if (score > global.highscore) {

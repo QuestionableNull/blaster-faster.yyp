@@ -1,3 +1,5 @@
+///@description spawns enemys
+//makes enemys spawn according to the score
 var _enemy_number = instance_number(o_ship_parent) - 1;
 
 if (_enemy_number == 0) {
