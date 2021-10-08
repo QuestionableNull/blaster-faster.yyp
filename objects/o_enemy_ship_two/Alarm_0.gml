@@ -18,4 +18,3 @@ if (_distance <= attack_range){
 	_laser.image_angle = _direction;
 	_laser.direction = _direction;
 }
-
